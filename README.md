@@ -116,9 +116,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Author**: Edy Bass
-- **Email**: contact@edybass.com
-- **LinkedIn**: [edybass](https://linkedin.com/in/edybass)
+- **Author**: Edy Bassil
+- **Email**: bassileddy@gmail.com
+- **LinkedIn**: [edybass](https://linkedin.com/in/edybassil)d
 
 ---
 ⭐ Star this repo if you find it helpful!
